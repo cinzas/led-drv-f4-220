@@ -3,3 +3,7 @@ led-drv-f4-220 (1.0) unstable; urgency=medium
   * Initial Release.
 
  -- Mike Stroyan <mike@stroyan.net>  Mon, 13 Jan 2020 15:10:29 -0700
+
+  * Second release to be compatible with OpenMediaVault 5.6 kernel
+
+ -- Joao Amaro <joao.amaro@gmail.com>  Sun, 19 Jul 2020 18:39:47 

@@ -1,12 +1,12 @@
 Source: led-drv-f4-220
 Section: universe/utils
 Priority: optional
-Maintainer: Mike Stroyan <mike@stroyan.net>
+Maintainer: Mike Stroyan <mike@stroyan.net>, Joao Amaro <joao.amaro@gmail.com>
 Build-Depends: debhelper-compat (= 12)
 Standards-Version: 4.4.0
-Homepage: https://github.com/stroyan/led-drv-f4-220
-Vcs-Browser: https://github.com/stroyan/led-drv-f4-220.git
-Vcs-Git: https://github.com/stroyan/led-drv-f4-220.git
+Homepage: https://github.com/cinzas/led-drv-f4-220
+Vcs-Browser: https://github.com/cinzas/led-drv-f4-220.git
+Vcs-Git: https://github.com/cinzas/led-drv-f4-220.git
 
 Package: led-drv-f4-220
 Architecture: amd64

@@ -3,11 +3,11 @@ Upstream-Name: led-drv-f4-220
 Source: <https://github.com/stroyan/led-drv-f4-220>
 
 Files: *
-Copyright: 2020 Mike Stroyan <mike@stroyan.net>
+Copyright: 2020 Mike Stroyan <mike@stroyan.net>, 2020 Joao Amaro <joao.amaro@gmail.com>
 License: GPL-2.0+
 
 Files: debian/*
-Copyright: 2020 Mike Stroyan <mike@stroyan.net>
+Copyright: 2020 Mike Stroyan <mike@stroyan.net>, 2020 Joao Amaro <joao.amaro@gmail.com>
 License: GPL-2.0+
 
 License: GPL-2.0+

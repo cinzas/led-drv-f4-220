@@ -52,7 +52,9 @@ Just echo the desired state to /dev/leds
 Permitted states are:
 
    HD1_off    - To disabled HD1 led
+
    HD1_green  - To set HD1 led green
+
    HD1_yellow - To set HD1 led yellow
    HD1_red    - To set HD1 led red
 
