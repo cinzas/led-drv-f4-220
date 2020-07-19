@@ -25,6 +25,7 @@
 #include <linux/miscdevice.h>
 #include <linux/fs.h>
 #include <linux/uaccess.h>	/* for get_user and put_user */
+#include "drm_os_linux.h"
 
 static void volatile __iomem *map[12];
 
