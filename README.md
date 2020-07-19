@@ -51,31 +51,29 @@ Just echo the desired state to /dev/leds
 
 Permitted states are:
 
-   HD1_off    - To disabled HD1 led
-
-   HD1_green  - To set HD1 led green
-
-   HD1_yellow - To set HD1 led yellow
-   HD1_red    - To set HD1 led red
-
-   HD2_off    - To disabled HD2 led
-   HD2_green  - To set HD2 led green
-   HD2_yellow - To set HD2 led yellow
-   HD2_red    - To set HD2 led red
-
-   HD3_off    - To disabled HD3 led
-   HD3_green  - To set HD3 led green
-   HD3_yellow - To set HD3 led yellow
-   HD3_red    - To set HD3 led red
-
-   HD4_off    - To disabled HD4 led
-   HD4_green  - To set HD4 led green
-   HD4_yellow - To set HD4 led yellow
-   HD4_red    - To set HD4 led red
-
-   LAN1_off   - To disabled LAN led
-   LAN1_on    - To set LAN led green
-
+   HD1_off    - To disabled HD1 led  
+   HD1_green  - To set HD1 led green  
+   HD1_yellow - To set HD1 led yellow  
+   HD1_red    - To set HD1 led red  
+  
+   HD2_off    - To disabled HD2 led  
+   HD2_green  - To set HD2 led green  
+   HD2_yellow - To set HD2 led yellow  
+   HD2_red    - To set HD2 led red  
+  
+   HD3_off    - To disabled HD3 led  
+   HD3_green  - To set HD3 led green  
+   HD3_yellow - To set HD3 led yellow  
+   HD3_red    - To set HD3 led red  
+  
+   HD4_off    - To disabled HD4 led  
+   HD4_green  - To set HD4 led green  
+   HD4_yellow - To set HD4 led yellow  
+   HD4_red    - To set HD4 led red  
+  
+   LAN1_off   - To disabled LAN led  
+   LAN1_on    - To set LAN led green  
+  
 Examples:
 
 ```bash
